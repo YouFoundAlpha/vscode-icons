@@ -5833,13 +5833,5 @@ export const extensions: IFileCollection = {
       filename: true,
       format: FileFormat.svg,
     },
-    {
-      icon: 'config',
-      extentions: [
-        '.config'
-        ],
-      filename: true,
-      format: FileFormat.svg
-    },
   ],
 };
