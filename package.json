@@ -301,6 +301,11 @@
           "default": "",
           "description": "%configuration.customIconFolderPath.description%"
         },
+        "vsicons.customIconFolderPathwin": {
+          "type": "string",
+          "default": "",
+          "description": "%configuration.customIconFolderPath.description%"
+        },
         "vsicons.associations.files": {
           "type": "array",
           "default": [],

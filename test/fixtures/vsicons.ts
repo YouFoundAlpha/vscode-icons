@@ -6,6 +6,7 @@ export const vsicons = Object.freeze({
     folderDefault: {},
   }),
   customIconFolderPath: '',
+  customIconFolderPathwin: '',
   dontShowNewVersionMessage: false,
   dontShowConfigManuallyChangedMessage: false,
   projectDetection: {
